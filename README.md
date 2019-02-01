@@ -9,3 +9,4 @@ Video: [https://youtu.be/tZyuqdLDn0g](Video)
 Script: [https://github.com/emarukyan/javascript-video-tutorials/blob/master/lesson-2/lesson-2.js](lesson-2.js)
 
 Video: [https://youtu.be/_WkagVIbGco](Video)
+
