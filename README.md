@@ -14,3 +14,8 @@ Video: [Video](https://youtu.be/9dc22nu9reE)
 Script: [lesson-3.js](https://github.com/emarukyan/javascript-video-tutorials/blob/master/lesson-3/lesson-3.js)
 
 Video: [Video](https://youtu.be/VQKe17SlFfw)
+
+## Lesson 4 - Compose (Redux)
+Script: [lesson-4.js](https://github.com/emarukyan/javascript-video-tutorials/blob/master/lesson-4/lesson-4.js)
+
+Video: [Video](https://youtu.be/5P3Qy9EVHYg)
