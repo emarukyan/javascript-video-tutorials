@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Title</title>
+</head>
+
+<body>
+
+<script>
+    document.addEventListener('click', function () {
+        console.log('document has been clicked!')
+    })
+
+
+    document.addEventListener('click', function () {
+        const body = document.getElementsByTagName('body')[0]
+        body.bgColor = '#ff0000'
+    })
+
+
+    document.addEventListener('click', function () {
+        const body = document.getElementsByTagName('body')[0]
+        const textnode = document.createElement('p');
+        textnode.innerHTML = "New paragraph"
+        body.appendChild(textnode)
+    })
+
+</script>
+
+</body>
+</html>

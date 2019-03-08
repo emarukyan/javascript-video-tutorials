@@ -19,3 +19,8 @@ Video: [Video](https://youtu.be/VQKe17SlFfw)
 Script: [lesson-4.js](https://github.com/emarukyan/javascript-video-tutorials/blob/master/lesson-4/lesson-4.js)
 
 Video: [Video](https://youtu.be/5P3Qy9EVHYg)
+
+## Lesson 5 - EventEmitter
+Script: [lesson-5.js](https://github.com/emarukyan/javascript-video-tutorials/blob/master/lesson-5/lesson-5.js)
+
+Video: [Video](https://youtu.be/)
